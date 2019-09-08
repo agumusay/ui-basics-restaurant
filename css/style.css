@@ -1,6 +1,28 @@
 html {
     font-family: sans-serif;
 }
-object {
-    
+.reviews{
+    font-size: 20px;
+}
+.reviews1{
+    color: rgb(129, 0, 0);
+}
+.reviews2{
+    color: rgb(0, 0, 129);
+}
+.reviews3{
+    color: rgb(129, 129, 0);
+}
+.customer{
+    font-style: italic;
+}
+
+a{
+    color: rgb(100, 149, 237);
+}
+a:visited {
+    color: rgb(102, 51, 153);
+}
+a:hover {
+    color: rgb(123, 104, 238);
 }
